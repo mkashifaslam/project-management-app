@@ -1,0 +1,1061 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"user",
+				"userObj\tlocal var"
+			],
+			[
+				"new",
+				"newUsersStr\tlocal var"
+			],
+			[
+				"NEW",
+				"newUsersStr\tlocal var"
+			],
+			[
+				"get",
+				"getUsers\tfunction"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"con",
+				"controllerClass\tlocal var"
+			],
+			[
+				"view",
+				"viewLoader\tfunction"
+			],
+			[
+				"even",
+				"eventName\tparameter"
+			],
+			[
+				"url",
+				"urlValidSegments\tlocal var"
+			],
+			[
+				"eve",
+				"eventName\tparameter"
+			],
+			[
+				"me",
+				"method\tparameter"
+			],
+			[
+				"evn",
+				"eventBinder\tfunction"
+			],
+			[
+				"cont",
+				"controllers\tfunction"
+			],
+			[
+				"cons",
+				"constructor\tkeyword"
+			],
+			[
+				"res",
+				"responseCode"
+			],
+			[
+				"cal",
+				"calculator"
+			],
+			[
+				"alert",
+				"alertMyName"
+			],
+			[
+				"mi",
+				"milesToKilometers"
+			],
+			[
+				"n",
+				"n2"
+			],
+			[
+				"na",
+				"nameToArray"
+			],
+			[
+				"temp",
+				"templateLiteral"
+			],
+			[
+				"const",
+				"constant"
+			],
+			[
+				"log",
+				"logTitle"
+			],
+			[
+				"M",
+				"Math"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bg",
+				"bg-white"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"conver",
+				"converted_file_info"
+			],
+			[
+				"De",
+				"Debugbar"
+			],
+			[
+				"vi",
+				"vidoe"
+			],
+			[
+				"categor",
+				"category_id"
+			],
+			[
+				"video",
+				"video_format_id"
+			],
+			[
+				"vide_form",
+				"video_format"
+			],
+			[
+				"all",
+				"all_video_formates"
+			],
+			[
+				"video_format_",
+				"video_format_extension"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/login/login.component.ts",
+			"settings":
+			{
+				"buffer_size": 570,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/home/home.component.ts",
+			"settings":
+			{
+				"buffer_size": 568,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 1093,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"angular cli:",
+				"Angular CLI: serve"
+			],
+			[
+				"angular",
+				"Angular CLI: version"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/angular-learning-app",
+		"/D/wamp64/www/angular-learning-app/node_modules/@angular/router/src",
+		"/D/wamp64/www/angular-learning-app/src",
+		"/D/wamp64/www/angular-learning-app/src/app",
+		"/D/wamp64/www/angular-learning-app/src/app/home",
+		"/D/wamp64/www/angular-learning-app/src/app/login"
+	],
+	"file_history":
+	[
+		"/D/wamp64/www/angular-learning-app/src/app/login/login.component.ts",
+		"/D/wamp64/www/angular-learning-app/src/app/app.module.ts",
+		"/D/wamp64/www/angular-learning-app/src/app/app.component.html",
+		"/D/wamp64/www/angular-learning-app/src/app/login/login.component.html",
+		"/D/wamp64/www/angular-learning-app/src/app/home/home.component.html",
+		"/D/wamp64/www/angular-learning-app/src/app/home/home.component.ts",
+		"/D/wamp64/www/angular-learning-app/src/app/app.component.ts",
+		"/D/wamp64/www/frontend-dev/app/boot/loader.ts",
+		"/D/wamp64/www/frontend-dev/app/templates/users.ejs",
+		"/D/wamp64/www/frontend-dev/app/controllers/login.ts",
+		"/D/wamp64/www/frontend-dev/app/boot/app.ts",
+		"/D/wamp64/www/frontend-dev/app/boot/db.ts",
+		"/D/wamp64/www/frontend-dev/app/templates/signin.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/nav.ejs",
+		"/D/wamp64/www/frontend-dev/app/signin.html",
+		"/D/wamp64/www/frontend-dev/app/templates/home.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/add_project.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/add_task.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/project.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/project_detail.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/task_detail.ejs",
+		"/D/wamp64/www/frontend-dev/app/controllers/home.ts",
+		"/D/wamp64/www/frontend-dev/app/home.html",
+		"/D/wamp64/www/frontend-dev/app/controllers/index.ts",
+		"/D/wamp64/www/frontend-dev/app/templates/add-task.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/task-detail.ejs",
+		"/D/wamp64/www/frontend-dev/app/boot/router.ts",
+		"/D/wamp64/www/frontend-dev/app/models/project.ts",
+		"/D/wamp64/www/frontend-dev/app/templates/add-project.ejs",
+		"/D/wamp64/www/frontend-dev/app/models/index.ts",
+		"/D/wamp64/www/frontend-dev/app/templates/signup.ejs",
+		"/D/wamp64/www/frontend-dev/app/models/user.ts",
+		"/D/wamp64/www/tokbox/index.js",
+		"/D/wamp64/www/frontend-dev/app/models/User.ts",
+		"/D/wamp64/www/frontend-dev/app/index.ts",
+		"/D/wamp64/www/frontend-dev/build/index.html",
+		"/D/wamp64/www/frontend-dev/app/templates/project-detail.ejs",
+		"/D/wamp64/www/frontend-dev/app/templates/layout.ejs",
+		"/D/wamp64/www/frontend-dev/app/template/signin.ejs",
+		"/D/wamp64/www/frontend-dev/webpack.config.js",
+		"/D/wamp64/www/frontend-dev/package.json",
+		"/D/wamp64/www/frontend-dev/app/template/loader.ts",
+		"/D/wamp64/www/frontend-dev/app/template/signin.ejs.ts",
+		"/D/wamp64/www/frontend-dev/typings.json",
+		"/D/wamp64/www/frontend-dev/tsconfig.json",
+		"/D/wamp64/www/frontend-dev/app/css/style.css",
+		"/D/wamp64/www/frontend-dev/app/controllers/app.ts",
+		"/D/wamp64/www/frontend-dev/app/index.html",
+		"/D/wamp64/www/frontend-dev/app/index.js",
+		"/D/wamp64/www/frontend-dev/app.js",
+		"/D/wamp64/www/es6-new-features/webpack.config.js",
+		"/D/wamp64/www/es6-new-features/app/WindowLogger.js",
+		"/D/wamp64/www/es6-new-features/package.json",
+		"/D/wamp64/www/es6-new-features/app/functionsAndObjects/destructingAssignment.js",
+		"/D/wamp64/www/es-pma-ebryx/webpack.config.js",
+		"/D/wamp64/www/es-pma-ebryx/app/helpers/helpers.ts",
+		"/D/wamp64/www/es-pma-ebryx/app/index.ts",
+		"/D/wamp64/www/es-pma-ebryx/.gitignore",
+		"/D/wamp64/www/es-pma-ebryx/tsconfig.json",
+		"/D/wamp64/www/es-pma-ebryx/build/index.html",
+		"/D/wamp64/www/es-pma-ebryx/package.json",
+		"/C/Users/Muhammad kashif/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/D/wamp64/www/es6-new-features/app/functionsAndObjects/enhanced-obj-properties.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/enhanced-obj-properties.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/destructingAssignment.js",
+		"/D/wamp64/www/es6-new-features/app/index.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/const.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/template-literal.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/spread.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/arrow-functions.js",
+		"/D/wamp64/www/es6-new-features/app/newSyntax/let.js",
+		"/D/wamp64/www/es6-new-features/app/enhanced-obj-properties.js",
+		"/D/wamp64/www/es6-new-features/build/index.html",
+		"/D/wamp64/www/es6-new-features/app/modules/singleDefaultExports/person.js",
+		"/D/wamp64/www/es6-new-features/app/modules/multipleNameExports/index.js",
+		"/D/wamp64/www/es6-new-features/app/modules/singleDefaultExports/index.js",
+		"/D/wamp64/www/es6-new-features/app/modules/WindowLogger.js",
+		"/D/wamp64/www/es6-new-features/app/modules/singleDefaultExports/pi.js",
+		"/D/wamp64/www/es6-new-features/app/modules/singleDefaultExports/api.js",
+		"/D/wamp64/www/es6-new-features/app/modules/multipleNameExports/math.js",
+		"/D/wamp64/www/es6-new-features/.babelrc",
+		"/D/wamp64/www/es6-new-features/app/singleDefaultExports/pi.js",
+		"/D/wamp64/www/es6-new-features/node_modules/webpack/buildin/module.js",
+		"/D/wamp64/www/babel-from-cli/app.js",
+		"/D/wamp64/www/babel-from-cli/app-es5.js",
+		"/D/wamp64/www/babel-from-cli/.babelrc",
+		"/D/wamp64/www/frontend-dev/project.html",
+		"/D/wamp64/www/frontend-dev/css/style.css",
+		"/D/wamp64/www/frontend-dev/home.html",
+		"/D/wamp64/www/frontend-dev/task-detail.html",
+		"/D/wamp64/www/frontend-dev/add-task.html",
+		"/D/wamp64/www/frontend-dev/add-project.html",
+		"/D/wamp64/www/frontend-dev/signup.html",
+		"/D/wamp64/www/frontend-dev/signin.html",
+		"/D/wamp64/www/frontend-dev/project-detail.html",
+		"/D/wamp64/www/bootstrap4/project.html",
+		"/D/wamp64/www/bootstrap4/package.json",
+		"/D/Development/Ebryx/front-end/front-end/assignment-1/project.html",
+		"/D/wamp64/www/bootstrap4/signup.html",
+		"/D/wamp64/www/bootstrap4/signin.html",
+		"/D/wamp64/www/bootstrap4/css/style.css",
+		"/D/Development/Ebryx/front-end/front-end/assignment-1/assets/css/style.css",
+		"/D/wamp64/www/bootstrap4/add-project.html",
+		"/D/wamp64/www/bootstrap4/home.html",
+		"/D/wamp64/www/bootstrap4/users.html",
+		"/D/wamp64/www/bootstrap4/add-task.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/signin.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/signup.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/project.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/css/style.css",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/users.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/home.html",
+		"/D/Development/Ebryx/wamp64/www/frontend-latest/add-task.html",
+		"/D/Development/Ebryx/wamp64/www/frontend/assignment1/webapp/public/stylesheets/recovered-style-file/style.css",
+		"/D/Development/Ebryx/wamp64/www/frontend/assignment1/webapp/public/stylesheets/style.css",
+		"/D/Development/Ebryx/wamp64/www/frontend/assignment1/webapp/public/add-project.html",
+		"/D/wamp64/www/frontend/assignment-1/assets/css/style.css",
+		"/D/wamp64/www/frontend/assignment-1/signup.html",
+		"/D/wamp64/www/frontend/assignment-1/login.html",
+		"/D/wamp64/www/frontend/assignment-1/users.html",
+		"/D/wamp64/www/frontend/assignment1/webapp/public/signup.html",
+		"/D/wamp64/www/frontend/assignment1/webapp/public/stylesheets/style.css",
+		"/D/wamp64/www/frontend/assignment1/webapp/.gitignore",
+		"/D/wamp64/www/frontend/assignment1/webapp/public/home.html",
+		"/D/wamp64/www/frontend/assignment1/webapp/public/add-task.html",
+		"/D/wamp64/www/frontend/assignment1/webapp/public/add-project.html",
+		"/D/wamp64/www/frontend/web/stylesheets/style.css",
+		"/D/wamp64/www/frontend/web/add-project.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"task-detail.html",
+			"Project",
+			"console.log",
+			"console",
+			"console.log",
+			"console",
+			"console.log",
+			"</a></a>",
+			"<a href=\"task-detail.html\"><a href=\"task-detail.html\">",
+			"Front end Development",
+			"mb-2 ",
+			"5",
+			"(0000)([0-9a-z])*(: )(([0-9a-z])*([ ])([0-9a-z])*){15}([ ]){2}",
+			"}...",
+			".}",
+			"{.",
+			"^([ ]){2}",
+			"(0000)([0-9a-z])*(: )(([0-9a-z])*([ ])([0-9a-z])*){15}",
+			"/^([a-z0-9])*([  ])/$",
+			"inFormat",
+			"LinkThrow\\Ffmpeg\\Facade\\FfmpegFacade::class",
+			"FFmpeg",
+			"/usr/local/bin/ffmpeg",
+			"C:",
+			".exe",
+			"bin/ffmpeg",
+			"modified",
+			"views",
+			"Controllers",
+			"vidoe",
+			"create",
+			"video_format_extension",
+			"find",
+			"querybuilder",
+			"function find",
+			"find",
+			"Eloquent",
+			"Attributes",
+			"\t</",
+			"app.css",
+			"mountNode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"javascript:void(0);",
+			"</a>",
+			"<a href=\"task-detail.html\">",
+			"<a href=\"task-detail.html\">Front end Development</a>",
+			"",
+			"} .",
+			"}",
+			"{",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/login/login.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/home/home.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-learning-app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"login",
+				"src\\app\\login\\login.component.ts"
+			],
+			[
+				"app.mod",
+				"src\\app\\app.module.ts"
+			],
+			[
+				"app.com",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"app.modu",
+				"src\\app\\app.module.ts"
+			],
+			[
+				"home",
+				"app\\controllers\\home.ts"
+			],
+			[
+				"controller",
+				"app\\controllers\\index.ts"
+			],
+			[
+				"app.ts",
+				"app\\boot\\app.ts"
+			],
+			[
+				"home.ts",
+				"app\\controllers\\home.ts"
+			],
+			[
+				"user.ts",
+				"app\\models\\user.ts"
+			],
+			[
+				"signin.ej",
+				"app\\templates\\signin.ejs"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"",
+				"typings.json"
+			],
+			[
+				"style",
+				"app\\css\\style.css"
+			],
+			[
+				"index.",
+				"build\\index.html"
+			],
+			[
+				"index.ts",
+				"app\\index.ts"
+			],
+			[
+				"index",
+				"app\\index.js"
+			],
+			[
+				"let",
+				"app\\newSyntax\\let.js"
+			],
+			[
+				"wind",
+				"app\\modules\\WindowLogger.js"
+			],
+			[
+				"person",
+				"app\\modules\\singleDefaultExports\\person.js"
+			],
+			[
+				"index.html",
+				"build\\index.html"
+			],
+			[
+				"bundle.js",
+				"node_modules\\webpack\\buildin\\module.js"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"project",
+				"project.html"
+			],
+			[
+				"task",
+				"task-detail.html"
+			],
+			[
+				"proj",
+				"project-detail.html"
+			],
+			[
+				"sign",
+				"signin.html"
+			],
+			[
+				"add-pro",
+				"add-project.html"
+			],
+			[
+				"add-task",
+				"add-task.html"
+			],
+			[
+				"signup",
+				"signup.html"
+			],
+			[
+				"signin",
+				"signin.html"
+			],
+			[
+				"users",
+				"users.html"
+			],
+			[
+				"git",
+				"webapp\\.gitignore"
+			],
+			[
+				"pro",
+				"webapp\\public\\projects.html"
+			],
+			[
+				"app",
+				"webapp\\app.js"
+			],
+			[
+				"videoc",
+				"app\\Http\\Controllers\\VideoController.php"
+			],
+			[
+				"upload",
+				"app\\Jobs\\UploadVideoFile.php"
+			],
+			[
+				"queue",
+				"config\\queue.php"
+			],
+			[
+				"autoload_re",
+				"vendor\\composer\\autoload_real.php"
+			],
+			[
+				"autoload",
+				"vendor\\autoload.php"
+			],
+			[
+				"laravel",
+				"config\\laravel-ffmpeg.php"
+			],
+			[
+				"ffmpeg/media/video",
+				"vendor\\php-ffmpeg\\php-ffmpeg\\src\\FFMpeg\\Media\\Video.php"
+			],
+			[
+				"video",
+				"app\\Video.php"
+			],
+			[
+				"ffmpeg",
+				"vendor\\php-ffmpeg\\php-ffmpeg\\src\\FFMpeg\\FFMpeg.php"
+			],
+			[
+				"baseffmpeg",
+				"vendor\\pbmedia\\laravel-ffmpeg\\src\\FFMpeg.php"
+			],
+			[
+				"laravel-ffmpeg",
+				"vendor\\pbmedia\\laravel-ffmpeg\\src\\FFMpeg.php"
+			],
+			[
+				"ffmpegserviceprovider",
+				"vendor\\pbmedia\\laravel-ffmpeg\\src\\FFMpegServiceProvider.php"
+			],
+			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"dropzone",
+				"public\\js\\dropzone-config.js"
+			],
+			[
+				"file",
+				"config\\filesystems.php"
+			],
+			[
+				"alchemy/binarydriver/configuration",
+				"vendor\\alchemy\\binary-driver\\src\\Alchemy\\BinaryDriver\\Configuration.php"
+			],
+			[
+				"ffmpeg.php",
+				"vendor\\pbmedia\\laravel-ffmpeg\\src\\FFMpeg.php"
+			],
+			[
+				"ffm",
+				"vendor\\linkthrow\\ffmpeg\\config\\ffmpeg.php"
+			],
+			[
+				"ffp",
+				"vendor\\php-ffmpeg\\php-ffmpeg\\src\\FFMpeg\\FFProbe.php"
+			],
+			[
+				"layout",
+				"resources\\views\\scaffold-interface\\layouts\\app.blade.php"
+			],
+			[
+				"admin",
+				"public\\css\\admin.css"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"app.css",
+				"public\\css\\app.css"
+			],
+			[
+				"app.blade",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"layout.b",
+				"resources\\views\\scaffold-interface\\layouts\\app.blade.php"
+			],
+			[
+				"app.js",
+				"public\\js\\app.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"index.blade",
+				"resources\\views\\video\\index.blade.php"
+			],
+			[
+				"drop",
+				"public\\js\\dropzone-config.js"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"vidoe_forma",
+				"app\\Http\\Controllers\\Video_formatController.php"
+			],
+			[
+				"dashboard",
+				"resources\\views\\scaffold-interface\\dashboard\\dashboard.blade.php"
+			],
+			[
+				"videocon",
+				"app\\Http\\Controllers\\VideoController.php"
+			],
+			[
+				"config",
+				"config\\amranidev\\config.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"edit",
+				"resources\\views\\video_format\\edit.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\video_format\\create.blade.php"
+			],
+			[
+				"video_f",
+				"app\\Http\\Controllers\\Video_formatController.php"
+			],
+			[
+				"add_vide",
+				"database\\migrations\\2016_11_19_182310_add_video_format_mime_type_in_video_formats_table.php"
+			],
+			[
+				"appserviceprovider",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"video_for",
+				"app\\Video_format.php"
+			],
+			[
+				"index.b",
+				"resources\\views\\video\\index.blade.php"
+			],
+			[
+				"geta",
+				"getAllExt()"
+			],
+			[
+				"video_cate",
+				"app\\Http\\Controllers\\Video_categoryController.php"
+			],
+			[
+				"videof",
+				"app\\Http\\Controllers\\Video_formatController.php"
+			],
+			[
+				"video_catec",
+				"app\\Http\\Controllers\\Video_categoryController.php"
+			],
+			[
+				"create.blade",
+				"resources\\views\\video_category\\create.blade.php"
+			],
+			[
+				"index.php",
+				"resources\\views\\video_category\\index.blade.php"
+			],
+			[
+				"video_c",
+				"app\\Http\\Controllers\\Video_categoryController.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"videofor",
+				"app\\Http\\Controllers\\Video_formatController.php"
+			],
+			[
+				"layout.blade",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				".css",
+				"public\\css\\app.css"
+			],
+			[
+				"video_form",
+				"app\\Http\\Controllers\\Video_formatController.php"
+			],
+			[
+				"querybuilder",
+				"vendor\\doctrine\\dbal\\lib\\Doctrine\\DBAL\\Query\\QueryBuilder.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
