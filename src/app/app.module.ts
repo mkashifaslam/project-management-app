@@ -11,6 +11,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { HeaderComponent } from './header/header.component';
 import { SignupComponent } from './signup/signup.component';
 import { AppService } from './services/app.service';
+import { Angular2FontawesomeModule } from 'angular2-fontawesome/angular2-fontawesome'
 
 const appRoutes: Routes = [
   { path: 'login', component: LoginComponent, data: { title: 'Login' } },
@@ -36,7 +37,8 @@ const appRoutes: Routes = [
     BrowserModule,
     FormsModule,
     HttpModule,
-    RouterModule.forRoot(appRoutes)
+    RouterModule.forRoot(appRoutes),
+    Angular2FontawesomeModule
   ],
   providers: [AppService],
   bootstrap: [AppComponent]

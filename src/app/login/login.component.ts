@@ -9,8 +9,6 @@ import { AppService } from '../services/app.service';
 })
 export class LoginComponent implements OnInit {
 
-  private title: string;
- 	
   constructor(private route: ActivatedRoute, private appService: AppService) { }
 
   ngOnInit() {

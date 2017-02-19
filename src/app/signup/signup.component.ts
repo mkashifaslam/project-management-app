@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Data } from '@angular/router';
+import { AppService } from '../services/app.service';
 
 @Component({
   selector: 'app-signup',
@@ -7,9 +9,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SignupComponent implements OnInit {
 
-  constructor() { }
+  constructor(private route: ActivatedRoute, private appService: AppService) { }
 
   ngOnInit() {
+  	var title = this.route.snapshot.data['title'];
+  	this.appService.setTitle(title);
   }
 
 }
