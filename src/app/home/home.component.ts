@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Title } from '@angular/platform-browser';
-import { Router, ActivatedRoute, Params, Data } from '@angular/router';
+import { ActivatedRoute, Data } from '@angular/router';
+import { AppService } from '../services/app.service';
 
 @Component({
   selector: 'app-home',
@@ -11,11 +11,11 @@ export class HomeComponent implements OnInit {
   
   private title: string; 	
 
-  constructor(private route: ActivatedRoute, private titleService: Title) { }
+  constructor(private route: ActivatedRoute, private appService: AppService) { }
 
   ngOnInit() {
-  	this.title = this.route.snapshot.data['title'];
-  	this.titleService.setTitle( this.title );
+  	var title = this.route.snapshot.data['title'];
+  	this.appService.setTitle(title);
   }
 
 }

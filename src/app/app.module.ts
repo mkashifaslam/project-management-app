@@ -14,12 +14,13 @@ import { AppService } from './services/app.service';
 
 const appRoutes: Routes = [
   { path: 'login', component: LoginComponent, data: { title: 'Login' } },
-  { path: 'home',  component: HomeComponent, data: { title: 'Home' }  },
+  { path: 'signup', component: SignupComponent, data: { title: 'SignUp'} },
+  { path: 'home',  component: HomeComponent, data: { title: 'Home' } },
   { path: '',
     redirectTo: '/login',  
     pathMatch: 'full'
   },
-  { path: '**', component: PageNotFoundComponent }
+  { path: '**', component: PageNotFoundComponent , data: { title: 'Page Not Found' }}
 ];
 
 @NgModule({
